@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da memória/h1>
+<h1 align="center">Jogo da memória</h1>
 
 <p align="center">
   <a href="#-hospedagem">Hospedagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
